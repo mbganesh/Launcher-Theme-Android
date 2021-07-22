@@ -1,0 +1,2 @@
+rootProject.name = "SplashScreen_LauncherTheme"
+include ':app'
